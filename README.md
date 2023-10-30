@@ -1,9 +1,12 @@
 # Parking-Space-Detector
 
-#Install
+# Install
 cvzone
+
 numpy
+
 opencv-python
+
 pip
 
 # Marking Parking Spaces on an Image
