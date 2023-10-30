@@ -24,6 +24,10 @@ Right-click to remove an existing parking spot.
 
 Saving Parking Spot Positions: It saves the positions of these parking spots in a file (CarParkPos) using the pickle library.
 
+![Screenshot 2023-10-30 110444](https://github.com/GAYATHRI15228/Parking-Space-Detector/assets/131843034/f088d851-dee3-4345-b9e3-2e11608b9192)
+
+
+
 # Analyzing Parking Spaces in a Video
 The code reads a video and identifies occupied and free parking spaces:
 
@@ -38,3 +42,7 @@ It counts the number of non-zero pixels in that region to determine occupancy.
 If there are fewer non-zero pixels, it assumes the space is free; otherwise, it's considered occupied.
 
 Drawing Results: It draws rectangles around these parking spaces and labels them as free or occupied based on the pixel count.
+
+https://github.com/GAYATHRI15228/Parking-Space-Detector/assets/131843034/78d4f7a8-574a-488e-adf1-42373a7d9a4d
+
+
